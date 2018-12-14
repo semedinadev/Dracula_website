@@ -1,2 +1,2 @@
 # Dracula_website
-Website about Dracula's character making as the final project of my 1st 10 weeks learning web design
+Website about Dracula's character made as part of the final project of my first 10 weeks learning web design
